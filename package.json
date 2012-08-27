@@ -9,7 +9,6 @@
   },
   "scripts": {
     "preinstall": "git submodule update --init --recursive",
-    "test": "vows ./web/test/* --spec",
     "start": "./web/spoofify.js"
   },
   "analyze": true,
@@ -18,9 +17,6 @@
     "node": ">=0.8.x"
   },
   "dependencies": {},
-  "devDependencies": {
-    "vows": ">=0.6.x"
-  },
   "subdomain": "spoofify",
   "domains": [
     "spoofifyapp.org",
