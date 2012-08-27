@@ -10,7 +10,8 @@
   "dependencies": {},
   "scripts": {
     "preinstall": "git submodule update --init --recursive",
-    "start": "./web/spoofify.js"
+    "test": "vows ./web/test/* --spec",
+    "start": "./web/spoofify.js",
   },
   "analyze": true,
   "private": true,
