@@ -1,4 +1,4 @@
-# Spoofify
+# Spoofify [![Build Status](https://secure.travis-ci.org/spoofifyapp/spoofify.png?branch=master)](http://travis-ci.org/spoofifyapp/spoofify)
 
 **Don't let apps steel your data! Get to know your Android smartphone.**
 
@@ -16,10 +16,10 @@ As Spoofify is developed as open source, we need some help to kickstart our proj
 
   - Open an issue for bugfixing or a feature request
   - Fork the repo and send us a pull request
-  - Watch our [project backlog](https://trello.com/b/4dQolunO)
+  - Watch our [project backlog](https://trello.com/b/4dQolunO) (contact us to get an invite)
   - Discuss for technical implementation questions
   - Vote for next iteration tasks
-  - Translate and verify [localization](https://github.com/wibuni/Spoofify-localization) (l10n) for common used languages (English, German, French, ...)
+  - Translate and verify [localization](https://github.com/spoofifyapp/spoofify-localization) (l10n) for common used languages (English, German, French, ...)
   - Feel free to contact us
 
 Please take care of our coding convetions:
@@ -27,11 +27,11 @@ Please take care of our coding convetions:
   - Use 2 spaces for indents (no tabs)
   - Use English language for variables, comments and function names
   - Comment every <del>non-elementary</del> <ins>single</ins> set of instructions (so it's much easier to read and edit the code)
-  - Use the [Wiki](https://github.com/wibuni/Spoofify/wiki) for additional documentation purposes
+  - Use the [Wiki](https://github.com/spoofifyapp/spoofify/wiki) for additional documentation purposes
 
 ### Missing anything?
 
-Take a look at our [Wiki](https://github.com/wibuni/Spoofify/wiki) and start editing ;-)
+Take a look at our [Wiki](https://github.com/spoofifyapp/spoofify/wiki) and start editing ;-)
 
 ### License
 

@@ -1,0 +1,7 @@
+android/
+README.md
+.travis.yml
+.git
+.gitignore
+.gitmodules
+.git/

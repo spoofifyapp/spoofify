@@ -1,0 +1,11 @@
+before_install:
+  - git submodule update --init --recursive
+language: node_js
+node_js:
+  - 0.8
+notifications:
+  webhooks: 
+    urls:
+      - http://webhooks.wibuni.de/1/deploy
+    on_success: always
+    on_failure: never

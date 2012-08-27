@@ -1,0 +1,24 @@
+{
+  "name": "spoofify",
+  "version": "0.0.1",
+  "description": "Spoofify Node.js API",
+  "author": "Spoofifyapp Developers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spoofifyapp/spoofify"
+  },
+  "dependencies": {},
+  "scripts": {
+    "start": "./web/spoofify.js"
+  },
+  "analyze": true,
+  "private": true,
+  "engines": {
+    "node": ">=0.8.x"
+  },
+  "subdomain": "spoofify",
+  "domains": [
+    "spoofifyapp.org",
+    "www.spoofifyapp.org"
+  ],
+}
