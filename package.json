@@ -11,7 +11,7 @@
   "scripts": {
     "preinstall": "git submodule update --init --recursive",
     "test": "vows ./web/test/* --spec",
-    "start": "./web/spoofify.js",
+    "start": "./web/spoofify.js"
   },
   "analyze": true,
   "private": true,
