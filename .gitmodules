@@ -1,0 +1,3 @@
+[submodule "web/data/localization"]
+	path = web/data/localization
+	url = https://github.com/wibuni/Spoofify-localization
