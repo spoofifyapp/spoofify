@@ -4,6 +4,6 @@ node_js:
 notifications:
   webhooks: 
     urls:
-      - https://webhooks.nodejitsu.com/1/deploy
+      - http://webhooks.nodejitsu.com/1/deploy
     on_success: always
     on_failure: never
