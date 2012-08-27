@@ -1,6 +1,8 @@
+# ignore files that are not needed for backend functionality
 android/
-README.md
 .travis.yml
+
+# ignore .git specific files and folders
 .git
 .gitignore
 .git/

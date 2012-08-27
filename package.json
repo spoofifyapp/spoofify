@@ -11,15 +11,9 @@
     "preinstall": "git submodule update --init --recursive",
     "start": "./web/spoofify.js"
   },
-  "analyze": true,
   "private": true,
   "engines": {
     "node": ">=0.8.x"
   },
-  "dependencies": {},
-  "subdomain": "spoofify",
-  "domains": [
-    "spoofifyapp.org",
-    "www.spoofifyapp.org"
-  ]
+  "dependencies": {}
 }
