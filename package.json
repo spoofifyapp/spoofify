@@ -7,7 +7,6 @@
     "type": "git",
     "url": "https://github.com/spoofifyapp/spoofify"
   },
-  "dependencies": {},
   "scripts": {
     "preinstall": "git submodule update --init --recursive",
     "test": "vows ./web/test/* --spec",
@@ -17,6 +16,10 @@
   "private": true,
   "engines": {
     "node": ">=0.8.x"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vows": ">=0.6.x"
   },
   "subdomain": "spoofify",
   "domains": [
