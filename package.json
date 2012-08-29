@@ -2,7 +2,7 @@
   "name": "spoofify",
   "version": "0.0.1",
   "description": "Spoofify Node.js API",
-  "author": "Spoofifyapp Developers",
+  "author": "Spoofifyapp <support@spoofifyapp.org>",
   "repository": {
     "type": "git",
     "url": "https://github.com/spoofifyapp/spoofify"
