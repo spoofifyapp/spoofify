@@ -1,6 +1,6 @@
 {
   "name": "spoofify",
-  "version": "0.0.1",
+  "version": "0.0.1a",
   "description": "Spoofify Node.js API",
   "author": "Spoofifyapp <support@spoofifyapp.org>",
   "repository": {
@@ -8,12 +8,16 @@
     "url": "https://github.com/spoofifyapp/spoofify"
   },
   "scripts": {
-    "preinstall": "git submodule update --init --recursive",
-    "start": "./web/spoofify.js"
+    "test": "vows test/api/*-test.js --spec",
+    "start": "./lib/spoofify.js"
   },
+  "main": "./lib/spoofify",
   "private": true,
   "engines": {
     "node": ">=0.8.x"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "vows": "0.6.x"
+  }
 }

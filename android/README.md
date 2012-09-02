@@ -1,3 +1,3 @@
-# Spoofify android
+# Spoofifyapp (Spoofify for Android)
 
-This folder contains the Android app of Spoofify.
+**The repository for [the Android app of Spoofify has moved here](https://github.com/spoofifyapp/spoofifyapp).**
