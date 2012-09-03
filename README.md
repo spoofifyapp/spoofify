@@ -16,11 +16,11 @@ As Spoofify is developed as open source, we need some help to kickstart our proj
 
   - Open an issue for bugfixing or a feature request
   - Fork the repo and send us a pull request
-  - Watch our [project backlog](https://trello.com/b/4dQolunO) (contact us to get an invite)
+  - Watch our [project backlog](https://trello.com/spoofifyapp). You can find a public board for feature requests (you can add stuff!) as well as a private board for development (ask us for an invite) there.
   - Discuss for technical implementation questions
   - Vote for next iteration tasks
-  - Translate and verify [localization](https://github.com/spoofifyapp/spoofify-localization) (l10n) for common used languages (English, German, French, ...)
-  - Feel free to contact us
+  - Translate and verify the [localization](https://github.com/spoofifyapp/spoofify-localization) (l10n) for common used languages (English, German, French, ...)
+  - Feel free to [contact us](http://spoofifyapp.org/contact/)
 
 Please take care of our coding convetions:
 
