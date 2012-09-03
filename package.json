@@ -1,14 +1,15 @@
 {
   "name": "spoofify",
-  "version": "0.0.1a",
+  "version": "0.0.1",
   "description": "Spoofify Node.js API",
-  "author": "Spoofifyapp <support@spoofifyapp.org>",
+  "author": "Spoofifyapp Developers",
   "repository": {
     "type": "git",
     "url": "https://github.com/spoofifyapp/spoofify"
   },
   "scripts": {
-    "test": "vows test/api/*-test.js --spec",
+    "preinstall": "./lib/load.js",
+    "test": "vows test/*/*-test.js --spec",
     "start": "./lib/spoofify.js"
   },
   "main": "./lib/spoofify",
@@ -16,8 +17,12 @@
   "engines": {
     "node": ">=0.8.x"
   },
-  "dependencies": {},
+  "dependencies": {
+    "express": ">=3.0.x",
+    "mu2": ">=0.5",
+    "memory-cache": ">=0.0.3"
+  },
   "devDependencies": {
-    "vows": "0.6.x"
+    "vows": ">=0.6.x"
   }
 }
