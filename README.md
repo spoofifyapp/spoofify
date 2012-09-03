@@ -16,7 +16,7 @@ As Spoofify is developed as open source, we need some help to kickstart our proj
 
   - Open an issue for bugfixing or a feature request
   - Fork the repo and send us a pull request
-  - Watch our [project backlog](https://trello.com/spoofifyapp). You can find a public board for feature requests (you can add stuff!) as well as a private board for development (ask us for an invite) there.
+  - Watch our [project backlog](https://trello.com/spoofifyapp) and vote for feature requests or contact us to request a new feature or to request an invite for the development board!
   - Discuss for technical implementation questions
   - Vote for next iteration tasks
   - Translate and verify the [localization](https://github.com/spoofifyapp/spoofify-localization) (l10n) for common used languages (English, German, French, ...)
