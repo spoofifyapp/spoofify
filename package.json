@@ -8,7 +8,7 @@
     "url": "https://github.com/spoofifyapp/spoofify"
   },
   "scripts": {
-    "preinstall": "./lib/load.js",
+    "postinstall": "./lib/load.js",
     "test": "vows test/*/*-test.js --spec",
     "start": "./lib/spoofify.js"
   },
@@ -23,7 +23,8 @@
     "memory-cache": ">=0.0.3"
   },
   "devDependencies": {
-    "vows": ">=0.6.x"
+    "vows": ">=0.6.x",
+    "api-easy": ">=0.3.x"
   },
   "subdomain": "spoofify",
   "domains": [
