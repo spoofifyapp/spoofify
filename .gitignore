@@ -1,5 +1,7 @@
 .*
 !.gitignore
+!.nodemonignore
+!.npmignore
 !.travis.yml
 lib-cov
 *.seed

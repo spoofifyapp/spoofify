@@ -1,0 +1,14 @@
+# ignore file for nodemon (rapid development)
+
+# static files (will be loaded each time requested)
+/static/*
+
+# tests (not required for running)
+/test/*
+
+# README is not required for running
+./README.md
+
+# git stuff
+.git/*
+.gitignore
