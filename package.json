@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/spoofifyapp/spoofify"
   },
+  "config": {
+    "port": "3000"
+  },
   "scripts": {
     "postinstall": "./lib/load.js",
     "test": "vows test/*/*-test.js --spec",
