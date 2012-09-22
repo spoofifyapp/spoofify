@@ -24,6 +24,7 @@
   "dependencies": {
     "express": ">=3.0.x",
     "memory-cache": ">=0.0.3",
+    "node-cachier": ">=0.0.x",
     "node-sass": ">=0.2.x"
   },
   "devDependencies": {
