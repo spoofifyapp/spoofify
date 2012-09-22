@@ -1,7 +1,8 @@
 # ignore file for nodemon (rapid development)
 
-# static files (will be loaded each time requested)
+# static files and caching (will be loaded each time requested)
 /static/*
+/frontend/cache/*
 
 # tests (not required for running)
 /test/*
