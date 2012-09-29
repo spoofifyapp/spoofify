@@ -25,6 +25,7 @@ As Spoofify is developed as open source, we need some help to kickstart our proj
 Please take care of our coding convetions:
 
   - Use 2 spaces for indents (no tabs)
+    - If using Sublime Text 2, just use the project files in the `sublimetext` dir to automatically code with this convention! :)
   - Use English language for variables, comments and function names
   - Comment every <del>non-elementary</del> <ins>single</ins> set of instructions (so it's much easier to read and edit the code)
   - Use the [Wiki](https://github.com/spoofifyapp/spoofify/wiki) for additional documentation purposes
