@@ -1,7 +1,8 @@
 {
   "folders": [
     {
-      "path": "lib/api/apis"
+      "path": "..",
+      "folder_exclude_patterns": ["node_modules", "sublimetext"]
     }
   ],
   "settings": {

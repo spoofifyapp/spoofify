@@ -1,9 +1,7 @@
 {
   "folders": [
     {
-      "path": ".",
-      "file_exclude_patterns": ["*.sublime-*"],
-      "folder_exclude_patterns": ["node_modules"]
+      "path": "../lib/api/apis"
     }
   ],
   "settings": {

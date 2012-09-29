@@ -1,7 +1,11 @@
 {
   "folders": [
     {
-      "path": "test"
+      "path": "../frontend",
+      "folder_exclude_patterns": [".locales", "cache"]
+    },
+    {
+      "path": "../static"
     }
   ],
   "settings": {
