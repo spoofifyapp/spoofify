@@ -9,4 +9,4 @@
 npm-debug.log
 node_modules/
 
-Spoofify.sublime-workspace
+*.sublime-workspace

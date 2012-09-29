@@ -1,0 +1,28 @@
+{
+  "folders": [
+    {
+      "path": "lib/api/apis"
+    }
+  ],
+  "settings": {
+    "translate_tabs_to_spaces": true,
+    "tab_size": 2
+  },
+  "build_systems": [
+    {
+      "name": "Develop (nodemon)",
+      "cmd": ["nodemon"],
+      "working_dir": "$project_path"
+    },
+    {
+      "name": "Test (npm test)",
+      "cmd": ["npm", "test"],
+      "working_dir": "$project_path"
+    },
+    {
+      "name": "Run (npm start)",
+      "cmd": ["npm", "start"],
+      "working_dir": "$project_path"
+    }
+  ]
+}
