@@ -4,6 +4,14 @@
 
 ---
 
+## The future of the project
+
+This project is currently paused because the developers just don't have enough time to build something new.
+
+If you want to take the project or build something fancy with the source code, please contact Lukas at <lukas@lu-x.me>.
+
+---
+
 ## What is Spoofify?
 
 Spoofify is an Android demo app for permission based data piracy. With every single app installation you'll have to confirm that the installed app will have certain permissions. But did you ever think about what each permission does really allow?
